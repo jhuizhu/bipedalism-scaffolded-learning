@@ -1,0 +1,4 @@
+/home/lima/Anas/simbody/CMakeFiles/edit_cache.dir
+/home/lima/Anas/simbody/CMakeFiles/rebuild_cache.dir
+/home/lima/Anas/simbody/CMakeFiles/walker.o.dir
+/home/lima/Anas/simbody/CMakeFiles/walkerVis.o.dir

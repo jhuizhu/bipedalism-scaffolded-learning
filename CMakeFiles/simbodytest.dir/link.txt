@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3 -DNDEBUG  -rdynamic CMakeFiles/simbodytest.dir/simbodytest.cpp.o  -o simbodytest  -L/home/lima/miniconda3/lib -Wl,-rpath,/home/lima/miniconda3/lib /home/lima/miniconda3/lib/libSimTKsimbody.so.3.6 /home/lima/miniconda3/lib/libSimTKmath.so.3.6 /home/lima/miniconda3/lib/libSimTKcommon.so.3.6 -llapack -lblas -lpthread -lrt -ldl -lm 
